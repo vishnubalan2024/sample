@@ -16,7 +16,7 @@ public class WriteExcel {
 			}
 			
 			if(i==j) {
-				System.out.print(s[i]+" ");
+				System.out.print(s[i]+"vishnu ");
 			}
 				
 			
